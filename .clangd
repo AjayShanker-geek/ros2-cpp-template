@@ -1,0 +1,16 @@
+{
+    "compileCommands": [
+        "./compile_commands.json"
+    ],
+    "clangd.arguments": [
+        "--background-index",
+        "--clang-tidy",
+        "--completion-style=detailed",
+        "--header-insertion=iwyu",
+        "--suggest-missing-includes"
+    ],
+    "clangd.formatting": "file",
+    "clangd.fallback-style": "Google",
+    "clangd.diagnostics.onParse": "openFiles",
+    "clangd.semanticHighlighting": true
+}

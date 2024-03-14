@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bgarage/ros2_ws/src/gimbal_control",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/bgarage/ros2_ws/src/gimbal_control/include/gimbal_control -isystem /home/bgarage/local/px4_ros_com-v1.13/install/px4_ros_com/include/px4_ros_com -isystem /home/bgarage/local/px4_ros_com-v1.13/install/px4_ros_com/include -isystem /home/bgarage/local/px4_ros_com-v1.13/install/px4_msgs/include -isystem /opt/ros/foxy/include -isystem /usr/include/eigen3    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/gimbal_control.dir/src/gimbal_control_func.cpp.o -c /home/bgarage/ros2_ws/src/gimbal_control/src/gimbal_control_func.cpp",
+  "file": "/home/bgarage/ros2_ws/src/gimbal_control/src/gimbal_control_func.cpp"
+}
+]
