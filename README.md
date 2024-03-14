@@ -7,5 +7,6 @@ or
 
 ## Add Template
 ```
-
+git clone --depth=1 https://github.com/AjayShanker-geek/ros2-cpp-template.git .
+rm -rf .git
 ```
