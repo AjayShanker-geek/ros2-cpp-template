@@ -9,3 +9,6 @@ or
 ```
 
 ```
+## CMAKE
+
+Add `set(CMAKE_EXPORT_COMPILE_COMMANDS ON)` for `clangd lsp`
